@@ -1,2 +1,2 @@
 # R-plotting
-# Plot gene expression with ggplot2
+# Plot with ggplot2
